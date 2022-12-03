@@ -34,7 +34,7 @@
             <v-btn class="mx-1 white--text" icon>
               <v-icon color="#A7121D">mdi-heart</v-icon>
             </v-btn>
-            Created by AAE IdeaPro
+            Created by Ahmad Adel
           </v-card-text>
         </v-col>
       </v-row>

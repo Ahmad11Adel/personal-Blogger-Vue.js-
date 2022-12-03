@@ -13,10 +13,7 @@
           <h5 class="red--text text--darken-4 top">Hello Im Agetha</h5>
           <h1 class="white--text">Visual Designer</h1>
           <p class="grey--text">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br />
-            Adipisci explicabo, cupiditate necessitatibus iure hic omnis est ab
-            <br />
-            At nihil et temporibus ratione!
+            
           </p>
           <v-btn tile color="#A7121D" dark> about me </v-btn>
         </v-col>
